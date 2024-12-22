@@ -240,7 +240,7 @@ class wpsm_team_b {
 				<li> <i class="fa fa-check"></i> <?php esc_html_e('All Browser Compatible',wpshopmart_team_b_text_domain); ?> </li>	
 			</ul>
 			<div class="pro-button-div">
-				<a class="btn btn-danger btn-lg " href="https://wpshopmart.com/plugins/team-pro/" target="_blank"><?php esc_html_e('Check Pro Version',wpshopmart_team_b_text_domain); ?> </a><a class="btn btn-success btn-lg " href="http://demo.wpshopmart.com/team-pro-demo" target="_blank"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a>
+				<a class="btn btn-danger btn-lg " href="https://wpshopmart.com/plugins/team-pro/" target="_blank"><?php esc_html_e('Check Pro Version',wpshopmart_team_b_text_domain); ?> </a><a class="btn btn-success btn-lg " href="https://wpshopmart.com/demos/team-pro/" target="_blank"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a>
 			</div>				
 		<?php
 	}

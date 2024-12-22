@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags:  Team, Team Builder, Team Showcase, Team Members, Our Team
 Requires at least: 5.0
-Tested up to: 6.6.2
-Stable tag: 1.7.4
+Tested up to: 6.7.1
+Stable tag: 1.7.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -16,7 +16,7 @@ Team Plugin comes with 6 Design Layout with Add unlimited Team Members. Grid Tea
 
 It's not only a simple team plugin, it's a team Team Management Plugin with drag and drop builder. With this plugin you can build fantastic team showcase in very little time. You can also use it to display testimonials or other kinds of content that require an image and text! Team Builder is a most versatile WordPress plugin available to manage & create your Team page. 
 
-* [Team Pro - Live Demo](http://demo.wpshopmart.com/team-pro-demo/)
+* [Team Pro - Live Demo](https://wpshopmart.com/demos/team-pro/)
 * [Upgrade To Pro](https://wpshopmart.com/plugins/team-pro/)
 
 https://www.youtube.com/watch?v=9QZ4Ypi24Do
@@ -96,7 +96,7 @@ https://www.youtube.com/watch?v=9QZ4Ypi24Do
 
 
 
-* [Team Pro - Live Demo](http://demo.wpshopmart.com/team-pro-demo/)
+* [Team Pro - Live Demo](https://wpshopmart.com/demos/team-pro/)
 * [Upgrade To Pro](https://wpshopmart.com/plugins/team-pro/)
 
 ### Customizable Settings
@@ -177,6 +177,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 
 == Changelog ==
+
+= 1.7.5 =
+* Compatible with wordpress 6.7
 
 = 1.7.4 =
 * Compatible with wordpress 6.6

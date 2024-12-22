@@ -71,9 +71,9 @@
 				
 				<div class="">
 					<div class="wpsm_home_portfolio_showcase">
-						<div class="wpsm_ribbon wpsm_ribbon2"><a target="_blank" href="http://demo.wpshopmart.com/team-pro-demo/slider-list/"><span><?php esc_html_e('Available In Pro',wpshopmart_team_b_text_domain); ?></span></a></div>
+						<div class="wpsm_ribbon wpsm_ribbon2"><a target="_blank" href="https://wpshopmart.com/demos/team-pro/slider-list/"><span><?php esc_html_e('Available In Pro',wpshopmart_team_b_text_domain); ?></span></a></div>
 						
-						<a   href="http://demo.wpshopmart.com/testimonial-pro-demo" target="_blank" style="background-color: #e0bf1b; border-color: #e0bf1b; text-decoration:none;"  >
+						<a   href="https://wpshopmart.com/demos/team-pro/" target="_blank" style="background-color: #e0bf1b; border-color: #e0bf1b; text-decoration:none;"  >
 						<img class="wpsm_img_responsive ftr_img" src="<?php echo esc_url(wpshopmart_team_b_directory_url.'assets/images/c2.png'); ?>"></a>
 						<span class="img-demo-span" style="position: absolute;
     bottom: 0px;
@@ -86,7 +86,7 @@
     color: #fff;
     border-top-left-radius: 15px;
     font-size: 13px;
-    right: 0;"><a style="color:#fff;text-decoration:none" target="_new" href="http://demo.wpshopmart.com/team-pro-demo/slider-list/"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span>
+    right: 0;"><a style="color:#fff;text-decoration:none" target="_new" href="https://wpshopmart.com/demos/team-pro/slider-list/"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span>
 					</div>
 				</div>
 				<div style="padding:13px;overflow:hidden; background: #EFEFEF; border-top: 1px dashed #ccc;">
@@ -102,9 +102,9 @@
 				
 				<div class="">
 					<div class="wpsm_home_portfolio_showcase">
-						<div class="wpsm_ribbon wpsm_ribbon2"><a target="_blank" href="http://demo.wpshopmart.com/team-pro-demo/"><span><?php esc_html_e('Available In Pro',wpshopmart_team_b_text_domain); ?></span></a></div>
+						<div class="wpsm_ribbon wpsm_ribbon2"><a target="_blank" href="https://wpshopmart.com/demos/team-pro/"><span><?php esc_html_e('Available In Pro',wpshopmart_team_b_text_domain); ?></span></a></div>
 						
-						<a   href="http://demo.wpshopmart.com/testimonial-pro-demo" target="_blank" >
+						<a   href="https://wpshopmart.com/demos/team-pro/" target="_blank" >
 						<img class="wpsm_img_responsive ftr_img" src="<?php echo esc_url(wpshopmart_team_b_directory_url.'assets/images/table.jpg'); ?>"></a>
 						<span class="img-demo-span" style="position: absolute;
     bottom: 0px;
@@ -117,7 +117,7 @@
     color: #fff;
     border-top-left-radius: 15px;
     font-size: 13px;
-    right: 0;"><a style="color:#fff;text-decoration:none" target="_blank" href="http://demo.wpshopmart.com/team-pro-demo/tabular/"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span>
+    right: 0;"><a style="color:#fff;text-decoration:none" target="_blank" href="https://wpshopmart.com/demos/team-pro/tabular/"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span>
 					</div>
 				</div>
 				<div style="padding:13px;overflow:hidden; background: #EFEFEF; border-top: 1px dashed #ccc;">
@@ -134,7 +134,7 @@
 				<div class="">
 					<div class="wpsm_home_portfolio_showcase">
 					
-						<a   href="http://demo.wpshopmart.com/testimonial-pro-demo" target="_blank" >
+						<a   href="https://wpshopmart.com/demos/team-pro/" target="_blank" >
 						<img class="wpsm_img_responsive ftr_img" src="<?php echo esc_url(wpshopmart_team_b_directory_url.'assets/images/3rd.jpg'); ?>"></a>
 						<span class="img-demo-span" style="position: absolute;
     bottom: 0px;
@@ -147,7 +147,7 @@
     color: #fff;
     border-top-left-radius: 15px;
     font-size: 13px;
-    right: 0;"><a style="color:#fff;text-decoration:none" target="_blank" href="http://demo.wpshopmart.com/team-pro-demo"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span></div>
+    right: 0;"><a style="color:#fff;text-decoration:none" target="_blank" href="https://wpshopmart.com/demos/team-pro/"><?php esc_html_e('Demo',wpshopmart_team_b_text_domain); ?></a></span></div>
 				</div>
 				<div style="padding:13px;overflow:hidden; background: #EFEFEF; border-top: 1px dashed #ccc;">
 					<h3 class="text-center pull-left" style="margin-top: 10px;margin-bottom: 10px;font-weight:900">Team Pro</h3>

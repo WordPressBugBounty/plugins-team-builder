@@ -1,5 +1,5 @@
   <div class="free-vs-pro-tab info-tab-content">
-	<a href="http://demo.wpshopmart.com/team-pro-demo/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a>
+	<a href="https://wpshopmart.com/demos/team-pro/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a>
 	<a href="https://wpshopmart.com/plugins/team-pro" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Upgrade To Pro',wpshopmart_team_b_text_domain); ?></a>
   </div>
   
@@ -153,7 +153,7 @@
 		                    </tr>
 		                    
 		                    <tr class="ti-about-page-text-center">
-		                        <td><a href="http://demo.wpshopmart.com/team-pro-demo/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a></td>
+		                        <td><a href="https://wpshopmart.com/demos/team-pro/" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Team Pro Demo',wpshopmart_team_b_text_domain); ?></a></td>
 		                    	<td colspan="2"><a href="https://wpshopmart.com/plugins/team-pro" target="_blank" class="button button-primary button-hero"><?php esc_html_e('Upgrade To Pro',wpshopmart_team_b_text_domain); ?></a></td>
 		                    </tr>
 		                </tbody>
