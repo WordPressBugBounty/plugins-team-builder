@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Team Builder
- * Version: 1.7.5
+ * Version: 1.7.6
  * Description:  Team Builder is most flexible WordPress plugin available to create and manage your Team page with drag and drop feature.
  * Author: wpshopmart
  * Author URI: https://www.wpshopmart.com

@@ -3,8 +3,8 @@ Contributors: wpshopmart
 Donate link: https://www.wpshopmart.com
 Tags:  Team, Team Builder, Team Showcase, Team Members, Our Team
 Requires at least: 5.0
-Tested up to: 6.7.1
-Stable tag: 1.7.5
+Tested up to: 6.8.3
+Stable tag: 1.7.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -178,6 +178,9 @@ Please use WordPress support forum to ask any query regarding any issue.
 
 == Changelog ==
 
+= 1.7.6 =
+* Compatible with wordpress 6.8.3
+
 = 1.7.5 =
 * Compatible with wordpress 6.7
 
@@ -194,11 +197,10 @@ Please use WordPress support forum to ask any query regarding any issue.
 * Compatible with wordpress 6.4
 
 = 1.7.0 =
-* added help commnets fro developer
+* added help commnets for developer
 
 = 1.6.9 =
 * Compatible with wordpress 6.3
-
 
 = 1.6.8 =
 * minor bug resolved
